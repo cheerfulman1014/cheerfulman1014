@@ -1,6 +1,3 @@
-![image](https://github.com/cheerfulman1014/cheerfulman1014/assets/125530125/7a5a63e1-ef2e-4a59-96dd-52e4268aef39)![image](https://github.com/cheerfulman1014/cheerfulman1014/assets/125530125/6e5aa63b-5ea6-4107-89a1-b20982d91963)<!--
-**cheerfulman1014/cheerfulman1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ashot Gasparyan
 </h1>
 
